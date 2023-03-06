@@ -1,0 +1,10 @@
+{
+  "name": "Comprehensive Learner Record 2.0",
+  "summary": "Education credentials for sharing achievements and skills.",
+  "specification": "https://www.imsglobal.org/spec/clr/v2p0",
+  "category": "vc",
+  "maintainerEmail": "support@1edtech.org",
+  "maintainerName": "1EdTech",
+  "maintainerWebsite": "https://www.1edtech.org/",
+  "vocabulary": ["https://purl.imsglobal.org/spec/clr/v2p0/context.json"]
+}
