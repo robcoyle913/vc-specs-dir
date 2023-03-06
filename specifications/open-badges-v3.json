@@ -3,7 +3,7 @@
   "summary": "Education credentials for sharing achievements and skills.",
   "specification": "https://www.imsglobal.org/spec/ob/v3p0",
   "category": "vc",
-  "maintainerEmail": "contact@imsglobal.org",
+  "maintainerEmail": "support@1edtech.org",
   "maintainerName": "1EdTech",
   "maintainerWebsite": "https://www.imsglobal.org/",
   "vocabulary": ["https://purl.imsglobal.org/spec/ob/v3p0/context.json"]
